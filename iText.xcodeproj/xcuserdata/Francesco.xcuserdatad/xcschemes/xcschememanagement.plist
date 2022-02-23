@@ -9,10 +9,25 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>iText_Watch.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>1308A8AC1C8DAC99008E423C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1308A9331C8DD102008E423C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1373E0F41C8F4805004B03D9</key>
 		<dict>
 			<key>primary</key>
 			<true/>

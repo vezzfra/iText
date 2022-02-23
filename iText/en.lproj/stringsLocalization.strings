@@ -1,0 +1,12 @@
+/* 
+  stringsLocalization.strings
+  iText
+
+  Created by Francesco on 09/03/16.
+  Copyright © 2016 Ro.v.er Development. All rights reserved.
+*/
+
+/* ViewController1 */
+
+"Attention!" = "Attention!";
+"We have tried to correct all the bugs present in our app iText, but we were not able to reproduce some of them. If, after trying to reinstall the app, you are still encountering some errors please use the new section \"Report a bug\" in the settings to let us know how to reproduce them. Thank you for your patience and sorry for eventual inconvenience with our product." = "We have tried to correct all the bugs present in our app iText, but we were not able to reproduce some of them. If, after trying to reinstall the app, you are still encountering some errors please use the new section \"Report a bug\" in the settings to let us know how to reproduce them. Thank you for your patience and sorry for eventual inconvenience with our product.";

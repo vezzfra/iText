@@ -1,0 +1,99 @@
+
+/* Class = "WKInterfaceLabel"; text = "STAND: 6"; ObjectID = "1Tw-Hk-vjJ"; */
+"1Tw-Hk-vjJ.text" = "IN PIEDI: 6";
+
+/* Class = "WKInterfaceButton"; title = "Credits"; ObjectID = "5lb-MV-IeP"; */
+"5lb-MV-IeP.title" = "Crediti";
+
+/* Class = "WKInterfaceDate"; format = "hh:mm a"; ObjectID = "5w3-m4-P18"; */
+"5w3-m4-P18.format" = "hh:mm a";
+
+/* Class = "WKInterfaceLabel"; text = "AAPL +3.54%"; ObjectID = "68d-SG-WHQ"; */
+"68d-SG-WHQ.text" = "AAPL +3.54%";
+
+/* Class = "WKInterfaceButton"; title = "Note 5"; ObjectID = "9yo-uD-zqP"; */
+"9yo-uD-zqP.title" = "Nota 5";
+
+/* Class = "WKInterfaceDate"; format = "hh:mm a"; ObjectID = "ANF-tv-rge"; */
+"ANF-tv-rge.format" = "hh:mm a";
+
+/* Class = "WKInterfaceButton"; title = "Note 2"; ObjectID = "ASQ-TV-bno"; */
+"ASQ-TV-bno.title" = "Nota 2";
+
+/* Class = "WKInterfaceLabel"; text = "Activity"; ObjectID = "EMx-HC-yT7"; */
+"EMx-HC-yT7.text" = "Attività";
+
+/* Class = "WKInterfaceButton"; title = "Note 4"; ObjectID = "GKt-Yg-Giv"; */
+"GKt-Yg-Giv.title" = "Nota 4";
+
+/* Class = "WKInterfaceLabel"; text = "VLKAY -2.83%"; ObjectID = "GUh-LH-gGk"; */
+"GUh-LH-gGk.text" = "VLKAY -2.83%";
+
+/* Class = "WKInterfaceButton"; title = "Note 1"; ObjectID = "HD9-3V-5Hk"; */
+"HD9-3V-5Hk.title" = "Nota 1";
+
+/* Class = "WKInterfaceLabel"; text = "Alert Label"; ObjectID = "IdU-wH-bcW"; */
+"IdU-wH-bcW.text" = "Alert Label";
+
+/* Class = "WKInterfaceLabel"; text = "You don't have other events today"; ObjectID = "KUP-4D-L2m"; */
+"KUP-4D-L2m.text" = "Oggi non hai altri eventi";
+
+/* Class = "WKInterfaceLabel"; text = "Activity"; ObjectID = "LEF-Az-rQA"; */
+"LEF-Az-rQA.text" = "Attività";
+
+/* Class = "WKInterfaceButton"; title = "Texts"; ObjectID = "LGe-Jd-waE"; */
+"LGe-Jd-waE.title" = "Testi";
+
+/* Class = "WKInterfaceDate"; format = "d"; ObjectID = "LsJ-nu-psO"; */
+"LsJ-nu-psO.format" = "d";
+
+/* Class = "WKInterfaceLabel"; text = "80%"; ObjectID = "OQ5-Ek-GKi"; */
+"OQ5-Ek-GKi.text" = "80%";
+
+/* Class = "WKInterfaceLabel"; text = "GOOG +0.70%"; ObjectID = "PCx-ua-ouL"; */
+"PCx-ua-ouL.text" = "GOOG +0.70%";
+
+/* Class = "WKInterfaceDate"; format = "hh:mm a"; ObjectID = "R7Q-mS-eWi"; */
+"R7Q-mS-eWi.format" = "hh:mm a";
+
+/* Class = "WKInterfaceButton"; title = "Note 3"; ObjectID = "Tby-eo-Zpr"; */
+"Tby-eo-Zpr.title" = "Nota 3";
+
+/* Class = "WKInterfaceLabel"; text = "DAY"; ObjectID = "UfM-mU-khh"; */
+"UfM-mU-khh.text" = "DAY";
+
+/* Class = "WKInterfaceDate"; format = "hh:mm "; ObjectID = "XnJ-XE-JZh"; */
+"XnJ-XE-JZh.format" = "hh:mm ";
+
+/* Class = "WKInterfaceLabel"; text = "DAY"; ObjectID = "ZIA-6i-UtE"; */
+"ZIA-6i-UtE.text" = "DAY";
+
+/* Class = "WKInterfaceLabel"; text = "Ro.v.er Development Italy - All Right Reserved"; ObjectID = "abp-ge-ShE"; */
+"abp-ge-ShE.text" = "Ro.v.er Development Italy - Tutti i diritti riservati";
+
+/* Class = "WKInterfaceDate"; format = "d"; ObjectID = "aiV-Ve-5xL"; */
+"aiV-Ve-5xL.format" = "d";
+
+/* Class = "WKInterfaceLabel"; text = "DOM"; ObjectID = "cNz-a1-buy"; */
+"cNz-a1-buy.text" = "DOM";
+
+/* Class = "WKInterfaceLabel"; text = "MOV: 17"; ObjectID = "erm-eo-RYT"; */
+"erm-eo-RYT.text" = "MOV: 17";
+
+/* Class = "WKInterfaceDate"; format = "hh:mm  a"; ObjectID = "hm0-V4-i15"; */
+"hm0-V4-i15.format" = "hh:mm  a";
+
+/* Class = "WKInterfaceLabel"; text = "CAL: 300"; ObjectID = "i1r-sZ-h5a"; */
+"i1r-sZ-h5a.text" = "CAL: 300";
+
+/* Class = "WKInterfaceLabel"; text = "DOM"; ObjectID = "mVo-l0-cJg"; */
+"mVo-l0-cJg.text" = "DOM";
+
+/* Class = "WKInterfaceLabel"; text = "Application developed by: "; ObjectID = "sfh-HM-KbR"; */
+"sfh-HM-KbR.text" = "Applicazione sviluppata da: ";
+
+/* Class = "WKInterfaceLabel"; text = "Stocks"; ObjectID = "xPI-yV-eAS"; */
+"xPI-yV-eAS.text" = "Borsa";
+
+/* Class = "WKInterfaceLabel"; text = "Calendary"; ObjectID = "yjA-i2-bsH"; */
+"yjA-i2-bsH.text" = "Calendario";

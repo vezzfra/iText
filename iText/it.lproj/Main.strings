@@ -1,0 +1,1128 @@
+
+/* Class = "UIButton"; normalTitle = "I like it!"; ObjectID = "07q-7B-ivz"; */
+"07q-7B-ivz.normalTitle" = "Mi piace!";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0Wi-tx-UMD"; */
+"0Wi-tx-UMD.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Great!"; ObjectID = "0ec-Ea-X36"; */
+"0ec-Ea-X36.text" = "Bene!";
+
+/* Class = "UITextField"; placeholder = "Add a title for this section..."; ObjectID = "0iJ-u1-3tY"; */
+"0iJ-u1-3tY.placeholder" = "Aggiungi un titolo a questa sezione...";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "0k1-QK-FPL"; */
+"0k1-QK-FPL.text" = "iText";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "0vU-rW-eKb"; */
+"0vU-rW-eKb.text" = "per Apple Watch";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0wJ-Ru-IYi"; */
+"0wJ-Ru-IYi.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "iText 1.2.5"; ObjectID = "17r-XA-Ohn"; */
+"17r-XA-Ohn.text" = "iText 1.2.5";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "1Fp-gC-Xct"; */
+"1Fp-gC-Xct.text" = "iText";
+
+/* Class = "UILabel"; text = "Application developed by:"; ObjectID = "2Mr-Up-rxW"; */
+"2Mr-Up-rxW.text" = "Applicazione sviluppata da:";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "2RV-eJ-Fcq"; */
+"2RV-eJ-Fcq.text" = "iText";
+
+/* Class = "UILabel"; text = "Select the emergency face that you prefer:"; ObjectID = "2Ve-by-8Mg"; */
+"2Ve-by-8Mg.text" = "Seleziona il quadrante di emergenza che preferisci:";
+
+/* Class = "UIButton"; normalTitle = "Not now"; ObjectID = "2XV-DF-B3A"; */
+"2XV-DF-B3A.normalTitle" = "Non ora";
+
+/* Class = "UIButton"; normalTitle = "Tutorial"; ObjectID = "2YK-Xd-KNJ"; */
+"2YK-Xd-KNJ.normalTitle" = "Tutorial";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2ee-Px-aoh"; */
+"2ee-Px-aoh.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Add a title for this section..."; ObjectID = "2gE-jU-wfv"; */
+"2gE-jU-wfv.placeholder" = "Aggiungi un titolo a questa sezione...";
+
+/* Class = "UIButton"; normalTitle = "Upload on Watch"; ObjectID = "2ms-9V-w95"; */
+"2ms-9V-w95.normalTitle" = "Carica sul Watch";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "2nn-IN-54l"; */
+"2nn-IN-54l.text" = "iText";
+
+/* Class = "UILabel"; text = "Copyright, 2016 - Ro.v.er Development Italy"; ObjectID = "32i-2o-3NE"; */
+"32i-2o-3NE.text" = "Copyright, 2016 - Ro.v.er Development Italy";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "3Do-XS-hX8"; */
+"3Do-XS-hX8.normalTitle" = "Indietro";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "3J0-6D-9UU"; */
+"3J0-6D-9UU.normalTitle" = "Modifica";
+
+/* Class = "UILabel"; text = "Your thoughts are very important to us and them allow us to improve our app's functions!"; ObjectID = "3Mu-z1-KTF"; */
+"3Mu-z1-KTF.text" = "Il tuo giudizio è molto importante per noi e ci permette di migliorare il nostro prodotto!";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "3Wb-ir-7xA"; */
+"3Wb-ir-7xA.text" = "iText";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "3ba-g9-W4Y"; */
+"3ba-g9-W4Y.text" = "iText";
+
+/* Class = "UITextField"; placeholder = "Add a title for this section..."; ObjectID = "3eW-uw-4qL"; */
+"3eW-uw-4qL.placeholder" = "Aggiungi un titolo a questa sezione...";
+
+/* Class = "UIButton"; normalTitle = "No, thank you"; ObjectID = "3go-Qf-fIG"; */
+"3go-Qf-fIG.normalTitle" = "No, grazie";
+
+/* Class = "UIButton"; normalTitle = "Report a bug"; ObjectID = "3iK-QG-cWS"; */
+"3iK-QG-cWS.normalTitle" = "Riporta un bug";
+
+/* Class = "UILabel"; text = "Your thoughts are very important to us and them allow us to improve our app's functions!"; ObjectID = "3mq-hQ-OLR"; */
+"3mq-hQ-OLR.text" = "Il tuo giudizio è molto importante per noi e ci permette di migliorare il nostro prodotto!";
+
+/* Class = "UILabel"; text = "Copyright, 2016 - Ro.v.er Development Italy"; ObjectID = "4Hc-5A-3wN"; */
+"4Hc-5A-3wN.text" = "Copyright, 2016 - Ro.v.er Development Italy";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "4c8-1O-UHE"; */
+"4c8-1O-UHE.text" = "per Apple Watch";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "4ve-gO-mBO"; */
+"4ve-gO-mBO.text" = "per Apple Watch";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "5QJ-px-7Xz"; */
+"5QJ-px-7Xz.normalTitle" = "Indietro";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5f9-8G-K8C"; */
+"5f9-8G-K8C.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "62u-LY-0e4"; */
+"62u-LY-0e4.text" = "iText";
+
+/* Class = "UIButton"; normalTitle = "No, thank you"; ObjectID = "63X-FZ-sMT"; */
+"63X-FZ-sMT.normalTitle" = "No, grazie";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "6Ft-iS-A3Z"; */
+"6Ft-iS-A3Z.text" = "per Apple Watch";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "6RH-Cb-xCX"; */
+"6RH-Cb-xCX.text" = "iText";
+
+/* Class = "UILabel"; text = "Updating iText to version 1.2.5"; ObjectID = "6mN-PL-WSh"; */
+"6mN-PL-WSh.text" = "Aggiorno iText alla versione 1.2.5";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "7RM-3e-Hra"; */
+"7RM-3e-Hra.text" = "per Apple Watch";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "7RW-tM-Wvv"; */
+"7RW-tM-Wvv.normalTitle" = "Indietro";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "7fa-IH-4G6"; */
+"7fa-IH-4G6.normalTitle" = "No";
+
+/* Class = "UIButton"; normalTitle = "Contact us"; ObjectID = "7it-YJ-HkH"; */
+"7it-YJ-HkH.normalTitle" = "Contattaci";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "7p0-85-30f"; */
+"7p0-85-30f.normalTitle" = "Indietro";
+
+/* Class = "UIButton"; normalTitle = "Yes, of course!"; ObjectID = "7t7-UQ-CjV"; */
+"7t7-UQ-CjV.normalTitle" = "Certo, con piacere!";
+
+/* Class = "UITextField"; placeholder = "Add a title for this section..."; ObjectID = "7zC-J7-uUR"; */
+"7zC-J7-uUR.placeholder" = "Aggiungi un titolo a questa sezione...";
+
+/* Class = "UILabel"; text = "Select the emergency face that you prefer:"; ObjectID = "8ei-0K-1Om"; */
+"8ei-0K-1Om.text" = "Seleziona il quadrante di emergenza che preferisci:";
+
+/* Class = "UIButton"; normalTitle = "I like it!"; ObjectID = "8ts-f2-3zv"; */
+"8ts-f2-3zv.normalTitle" = "Mi piace!";
+
+/* Class = "UILabel"; text = "Checking for bugs' correction..."; ObjectID = "98H-EU-1EX"; */
+"98H-EU-1EX.text" = "Verifico la correzione dei bug...";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9JQ-Jr-jgX"; */
+"9JQ-Jr-jgX.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "9Ls-eD-cLl"; */
+"9Ls-eD-cLl.normalTitle" = "Indietro";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "9c8-be-Jna"; */
+"9c8-be-Jna.normalTitle" = "Indietro";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "9jp-ZQ-UrS"; */
+"9jp-ZQ-UrS.normalTitle" = "Indietro";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "AFM-aX-Lc9"; */
+"AFM-aX-Lc9.text" = "per Apple Watch";
+
+/* Class = "UIButton"; normalTitle = "I like it!"; ObjectID = "AdN-3U-PdJ"; */
+"AdN-3U-PdJ.normalTitle" = "Mi piace!";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "Af3-zb-qNN"; */
+"Af3-zb-qNN.text" = "per Apple Watch";
+
+/* Class = "UIButton"; normalTitle = "No, thank you"; ObjectID = "AnR-sH-nV0"; */
+"AnR-sH-nV0.normalTitle" = "No, grazie";
+
+/* Class = "UIButton"; normalTitle = "Not now"; ObjectID = "B40-4j-tpi"; */
+"B40-4j-tpi.normalTitle" = "Non ora";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "BKS-UZ-WgC"; */
+"BKS-UZ-WgC.normalTitle" = "Indietro";
+
+/* Class = "UILabel"; text = "•Write the text you want to have on your wrist in the white rectangle and then press: \"Upload on Watch\". Make sure you have opened Apple Watch's App on the section you have chosen on iPhone before pressing the button;"; ObjectID = "BLC-PD-sbL"; */
+"BLC-PD-sbL.text" = "•Scrivete il testo che vorreste avere sul polso e cliccate: \"Carica sul Watch\". Verificate di avere aperto l'applicazione sull'Apple Watch nella stessa sezione che avete scelto sull'iPhone prima di premere il bottone;";
+
+/* Class = "UITextField"; placeholder = "Add a title for this section..."; ObjectID = "BQ6-Bp-a0D"; */
+"BQ6-Bp-a0D.placeholder" = "Aggiungi un titolo a questa sezione...";
+
+/* Class = "UILabel"; text = "Version: 1.2.5"; ObjectID = "BYR-LY-YJ8"; */
+"BYR-LY-YJ8.text" = "Versione: 1.2.5";
+
+/* Class = "UIButton"; normalTitle = "I like it!"; ObjectID = "C50-kP-Uoc"; */
+"C50-kP-Uoc.normalTitle" = "Mi piace!";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "CFg-bR-kbP"; */
+"CFg-bR-kbP.normalTitle" = "Modifica";
+
+/* Class = "UILabel"; text = "To upload a text on you Apple Watch, you need to:"; ObjectID = "CLt-a6-PYb"; */
+"CLt-a6-PYb.text" = "Per caricare un testo su Apple Watch dovete:";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "CQd-sL-paG"; */
+"CQd-sL-paG.text" = "per Apple Watch";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "CRZ-JH-tVM"; */
+"CRZ-JH-tVM.text" = "per Apple Watch";
+
+/* Class = "UIButton"; normalTitle = "Report a bug"; ObjectID = "CVP-yF-GAr"; */
+"CVP-yF-GAr.normalTitle" = "Riporta un bug";
+
+/* Class = "UILabel"; text = "We highly recommend to read our tutorial before using this application!"; ObjectID = "CVU-uN-v8n"; */
+"CVU-uN-v8n.text" = "Consigliamo vivamente di leggere il tutorial prima di utilizzare l'app!";
+
+/* Class = "UILabel"; text = "To upload the new Watch's Face, first open the Face's section from any of the three text's sections on the Apple Watch"; ObjectID = "CeU-x0-gub"; */
+"CeU-x0-gub.text" = "Per caricare un nuovo quadrante  aprite, prima di cliccare, la sezione di emergenza sul vostro Apple Watch";
+
+/* Class = "UIButton"; normalTitle = "Upload on Watch"; ObjectID = "CjL-ca-DkO"; */
+"CjL-ca-DkO.normalTitle" = "Carica sul Watch";
+
+/* Class = "UILabel"; text = "Great!"; ObjectID = "Co4-gw-9XS"; */
+"Co4-gw-9XS.text" = "Bene!";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "D11-Xo-xUu"; */
+"D11-Xo-xUu.text" = "iText";
+
+/* Class = "UILabel"; text = "• Check that in \"Watch\" App, you have installed iText App on your wereable device;"; ObjectID = "D4r-r2-PRI"; */
+"D4r-r2-PRI.text" = "• Controllare che nell'App \"Watch\" abbiate installato la nostra App sul dispositivo indossabile;";
+
+/* Class = "UILabel"; text = "Do you like iText?"; ObjectID = "D53-un-O7h"; */
+"D53-un-O7h.text" = "Ti piace iText?";
+
+/* Class = "UILabel"; text = "We're glad to know that our product is a great app to you! We are working very hard to keep it update and to add new functions! Would you like to review the app on the Apple App Store?"; ObjectID = "D80-D4-T7O"; */
+"D80-D4-T7O.text" = "Siamo lieti di sapere che l'app ti piaccia! Lavoriamo sodo per mantenerla aggiornata; ti andrebbe di lasciare una recensione nell'App Store?";
+
+/* Class = "UILabel"; text = "Thank you for your help! We'll try to correct these bugs quickly"; ObjectID = "DVo-oB-ILa"; */
+"DVo-oB-ILa.text" = "Grazie per l'aiuto! Cercheremo di correggere questi bug il prima possibile";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "DWD-oi-ttM"; */
+"DWD-oi-ttM.text" = "iText";
+
+/* Class = "UILabel"; text = "iOS version:"; ObjectID = "Dex-b6-G5C"; */
+"Dex-b6-G5C.text" = "Versione di iOS:";
+
+/* Class = "UITextField"; placeholder = "Add a title for this section..."; ObjectID = "DnB-Xp-KEo"; */
+"DnB-Xp-KEo.placeholder" = "Aggiungi un titolo a questa sezione...";
+
+/* Class = "UIButton"; normalTitle = "Checked"; ObjectID = "Dts-bx-hZS"; */
+"Dts-bx-hZS.normalTitle" = "Fatto";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "Dyw-nG-Oni"; */
+"Dyw-nG-Oni.text" = "iText";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Dzz-Ru-qFB"; */
+"Dzz-Ru-qFB.normalTitle" = "Indietro";
+
+/* Class = "UIButton"; normalTitle = "Upload on Watch"; ObjectID = "E7G-kd-TqH"; */
+"E7G-kd-TqH.normalTitle" = "Carica sul Watch";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "EAb-7n-QU3"; */
+"EAb-7n-QU3.text" = "per Apple Watch";
+
+/* Class = "UIButton"; normalTitle = "No, I don't like it.."; ObjectID = "EDP-3s-CKr"; */
+"EDP-3s-CKr.normalTitle" = "No, non mi piace..";
+
+/* Class = "UIButton"; normalTitle = "Credits"; ObjectID = "EIK-sB-qNa"; */
+"EIK-sB-qNa.normalTitle" = "Crediti";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ENC-g0-Kho"; */
+"ENC-g0-Kho.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Ro.v.er Software Development"; ObjectID = "EXX-sG-09q"; */
+"EXX-sG-09q.text" = "Ro.v.er Software Development";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "EjF-Yn-Dfk"; */
+"EjF-Yn-Dfk.normalTitle" = "Indietro";
+
+/* Class = "UILabel"; text = "To upload the new Watch's Face, first open the Face's section from any of the three text's sections on the Apple Watch"; ObjectID = "EoT-0R-WdO"; */
+"EoT-0R-WdO.text" = "Per caricare un nuovo quadrante  aprite, prima di cliccare, la sezione di emergenza sul vostro Apple Watch";
+
+/* Class = "UILabel"; text = "• Check that in \"Watch\" App, you have installed iText App on your wereable device;"; ObjectID = "EwG-4a-uHh"; */
+"EwG-4a-uHh.text" = "• Controllare che nell'App \"Watch\" abbiate installato la nostra App sul dispositivo indossabile;";
+
+/* Class = "UILabel"; text = "• Check that in \"Watch\" App, you have installed iText App on your wereable device;"; ObjectID = "FLS-D4-7L0"; */
+"FLS-D4-7L0.text" = "• Controllare che nell'App \"Watch\" abbiate installato la nostra App sul dispositivo indossabile;";
+
+/* Class = "UIButton"; normalTitle = "Upload on Watch"; ObjectID = "FMQ-QN-aeM"; */
+"FMQ-QN-aeM.normalTitle" = "Carica sul Watch";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "FgW-7O-s4I"; */
+"FgW-7O-s4I.normalTitle" = "Indietro";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "Flf-Gw-Dtq"; */
+"Flf-Gw-Dtq.text" = "per Apple Watch";
+
+/* Class = "UIButton"; normalTitle = "Not now"; ObjectID = "Fx5-MY-FcA"; */
+"Fx5-MY-FcA.normalTitle" = "Non ora";
+
+/* Class = "UIButton"; normalTitle = "Credits"; ObjectID = "Fz3-mF-jAz"; */
+"Fz3-mF-jAz.normalTitle" = "Crediti";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "GHK-uY-p2a"; */
+"GHK-uY-p2a.text" = "per Apple Watch";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Got-Ao-TKc"; */
+"Got-Ao-TKc.normalTitle" = "Indietro";
+
+/* Class = "UIButton"; normalTitle = "No, I don't like it.."; ObjectID = "GyX-N3-eiC"; */
+"GyX-N3-eiC.normalTitle" = "No, non mi piace..";
+
+/* Class = "UILabel"; text = "Version: 1.2.5"; ObjectID = "HH6-Lo-UPm"; */
+"HH6-Lo-UPm.text" = "Versione: 1.2.5";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "HIp-TI-OEv"; */
+"HIp-TI-OEv.normalTitle" = "Indietro";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "HiF-MT-zcK"; */
+"HiF-MT-zcK.text" = "iText";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "Hjb-iH-LsL"; */
+"Hjb-iH-LsL.text" = "iText";
+
+/* Class = "UIButton"; normalTitle = "Yes, of course!"; ObjectID = "I0u-D1-C7v"; */
+"I0u-D1-C7v.normalTitle" = "Certo, con piacere!";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "I3a-n7-6FT"; */
+"I3a-n7-6FT.text" = "iText";
+
+/* Class = "UITextField"; placeholder = "Add a title for this section..."; ObjectID = "IAb-u4-8xp"; */
+"IAb-u4-8xp.placeholder" = "Aggiungi un titolo a questa sezione...";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "IH7-zm-HTf"; */
+"IH7-zm-HTf.normalTitle" = "No";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "IIr-bu-Tjh"; */
+"IIr-bu-Tjh.normalTitle" = "Indietro";
+
+/* Class = "UIButton"; normalTitle = "Upload on Watch"; ObjectID = "IPi-BQ-GMb"; */
+"IPi-BQ-GMb.normalTitle" = "Carica sul Watch";
+
+/* Class = "UILabel"; text = "iPhone Model:"; ObjectID = "IQc-ps-cLY"; */
+"IQc-ps-cLY.text" = "Modello di iPhone:";
+
+/* Class = "UILabel"; text = "We highly recommend to read our tutorial before using this application!"; ObjectID = "Iai-wB-tWR"; */
+"Iai-wB-tWR.text" = "Consigliamo vivamente di leggere il tutorial prima di utilizzare l'app!";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "Itp-0V-knN"; */
+"Itp-0V-knN.text" = "per Apple Watch";
+
+/* Class = "UIButton"; normalTitle = "Upload on Watch"; ObjectID = "J7C-p9-3SI"; */
+"J7C-p9-3SI.normalTitle" = "Carica sul Watch";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "JNU-6n-Tfp"; */
+"JNU-6n-Tfp.text" = "per Apple Watch";
+
+/* Class = "UILabel"; text = "iOS version:"; ObjectID = "JdG-6W-r3S"; */
+"JdG-6W-r3S.text" = "Versione di iOS:";
+
+/* Class = "UIButton"; normalTitle = "Credits"; ObjectID = "Jo4-jH-DXm"; */
+"Jo4-jH-DXm.normalTitle" = "Crediti";
+
+/* Class = "UILabel"; text = "App version:"; ObjectID = "Jsh-tN-bpA"; */
+"Jsh-tN-bpA.text" = "Versione dell'app:";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "Jv9-n4-F8B"; */
+"Jv9-n4-F8B.normalTitle" = "Chiudi";
+
+/* Class = "UILabel"; text = "iOS %i"; ObjectID = "K4M-Ry-VPN"; */
+"K4M-Ry-VPN.text" = "iOS %i";
+
+/* Class = "UILabel"; text = "• Open \"Write Now\" section in iPhone's App and select one of the five possible subjects;"; ObjectID = "K8x-bI-T6P"; */
+"K8x-bI-T6P.text" = "• Aprire la sezione \"Scrivi ora!\" sull'app dell'iPhone e scegliere una delle cinque possibili sezioni;";
+
+/* Class = "UILabel"; text = "iOS version:"; ObjectID = "KAc-xg-8nd"; */
+"KAc-xg-8nd.text" = "Versione di iOS:";
+
+/* Class = "UILabel"; text = "iText 1.2.5"; ObjectID = "KDi-s4-HZe"; */
+"KDi-s4-HZe.text" = "iText 1.2.5";
+
+/* Class = "UITextField"; placeholder = "Add a title for this section..."; ObjectID = "KQV-ce-ydK"; */
+"KQV-ce-ydK.placeholder" = "Aggiungi un titolo a questa sezione...";
+
+/* Class = "UIButton"; normalTitle = "End"; ObjectID = "KYH-qH-8mp"; */
+"KYH-qH-8mp.normalTitle" = "Fine";
+
+/* Class = "UILabel"; text = "Ro.v.er Software Development"; ObjectID = "KoD-9k-jP8"; */
+"KoD-9k-jP8.text" = "Ro.v.er Software Development";
+
+/* Class = "UIButton"; normalTitle = "Upload on Watch"; ObjectID = "Kpr-QT-YQ6"; */
+"Kpr-QT-YQ6.normalTitle" = "Carica sul Watch";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "Kxj-8P-CcT"; */
+"Kxj-8P-CcT.text" = "per Apple Watch";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "L28-at-F8c"; */
+"L28-at-F8c.normalTitle" = "Indietro";
+
+/* Class = "UILabel"; text = "Oh..."; ObjectID = "LEs-69-dgF"; */
+"LEs-69-dgF.text" = "Oh...";
+
+/* Class = "UILabel"; text = "iOS version:"; ObjectID = "LKp-EE-gUV"; */
+"LKp-EE-gUV.text" = "Versione di iOS:";
+
+/* Class = "UILabel"; text = "Oh..."; ObjectID = "LaW-Wl-Ly1"; */
+"LaW-Wl-Ly1.text" = "Oh...";
+
+/* Class = "UIButton"; normalTitle = "Contact us"; ObjectID = "Lf6-e1-6Vb"; */
+"Lf6-e1-6Vb.normalTitle" = "Contattaci";
+
+/* Class = "UILabel"; text = "Application developed by:"; ObjectID = "LkO-uL-ugJ"; */
+"LkO-uL-ugJ.text" = "Applicazione sviluppata da:";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "LkP-1e-UjM"; */
+"LkP-1e-UjM.text" = "iText";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "Mvy-G8-aTQ"; */
+"Mvy-G8-aTQ.text" = "per Apple Watch";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Mxm-g3-WFU"; */
+"Mxm-g3-WFU.normalTitle" = "Indietro";
+
+/* Class = "UITextField"; placeholder = "Add a title for this section..."; ObjectID = "N0B-kS-h73"; */
+"N0B-kS-h73.placeholder" = "Aggiungi un titolo a questa sezione...";
+
+/* Class = "UILabel"; text = "iPhone %i"; ObjectID = "N38-bc-29j"; */
+"N38-bc-29j.text" = "iPhone %i";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "NEW-6i-TKN"; */
+"NEW-6i-TKN.normalTitle" = "Indietro";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "NgZ-rw-K2X"; */
+"NgZ-rw-K2X.text" = "per Apple Watch";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "NlP-IA-Rtn"; */
+"NlP-IA-Rtn.text" = "per Apple Watch";
+
+/* Class = "UIButton"; normalTitle = "Checked"; ObjectID = "NxZ-AM-wDW"; */
+"NxZ-AM-wDW.normalTitle" = "Fatto";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "OZA-iL-SBB"; */
+"OZA-iL-SBB.text" = "per Apple Watch";
+
+/* Class = "UIButton"; normalTitle = "No, thank you"; ObjectID = "OeY-u2-ZDR"; */
+"OeY-u2-ZDR.normalTitle" = "No, grazie";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "P7q-tQ-mPR"; */
+"P7q-tQ-mPR.text" = "iText";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "PEA-6s-Tge"; */
+"PEA-6s-Tge.text" = "iText";
+
+/* Class = "UILabel"; text = "To upload the new Watch's Face, first open the Face's section from any of the three text's sections on the Apple Watch"; ObjectID = "PIG-Qo-Agu"; */
+"PIG-Qo-Agu.text" = "Per caricare un nuovo quadrante  aprite, prima di cliccare, la sezione di emergenza sul vostro Apple Watch";
+
+/* Class = "UILabel"; text = "• Open \"Write Now\" section in iPhone's App and select one of the five possible subjects;"; ObjectID = "Q2X-sa-OzK"; */
+"Q2X-sa-OzK.text" = "• Aprire la sezione \"Scrivi ora!\" sull'app dell'iPhone e scegliere una delle cinque possibili sezioni;";
+
+/* Class = "UIButton"; normalTitle = "Upload on Watch"; ObjectID = "Q3D-I1-Ts6"; */
+"Q3D-I1-Ts6.normalTitle" = "Carica sul Watch";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "QFT-rF-cb3"; */
+"QFT-rF-cb3.normalTitle" = "Indietro";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "QVc-vH-RaA"; */
+"QVc-vH-RaA.text" = "per Apple Watch";
+
+/* Class = "UIButton"; normalTitle = "Report"; ObjectID = "QdM-mX-9zl"; */
+"QdM-mX-9zl.normalTitle" = "Riporta";
+
+/* Class = "UIButton"; normalTitle = "Checked"; ObjectID = "QeH-Ne-36f"; */
+"QeH-Ne-36f.normalTitle" = "Fatto";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "R87-f4-lur"; */
+"R87-f4-lur.text" = "iText";
+
+/* Class = "UILabel"; text = "To upload a text on you Apple Watch, you need to:"; ObjectID = "RCU-8C-b0p"; */
+"RCU-8C-b0p.text" = "Per caricare un testo su Apple Watch dovete:";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "RR3-Tl-4mA"; */
+"RR3-Tl-4mA.normalTitle" = "Indietro";
+
+/* Class = "UILabel"; text = "Thank you for your help! We'll try to correct these bugs quickly"; ObjectID = "RTf-7k-HzN"; */
+"RTf-7k-HzN.text" = "Grazie per l'aiuto! Cercheremo di correggere questi bug il prima possibile";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "RWF-Lx-PQy"; */
+"RWF-Lx-PQy.normalTitle" = "Indietro";
+
+/* Class = "UITextField"; placeholder = "Add a title for this section..."; ObjectID = "RWu-56-92h"; */
+"RWu-56-92h.placeholder" = "Aggiungi un titolo a questa sezione...";
+
+/* Class = "UIButton"; normalTitle = "Upload on Watch"; ObjectID = "RkM-zh-WRR"; */
+"RkM-zh-WRR.normalTitle" = "Carica sul Watch";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "Rn3-Dm-5fP"; */
+"Rn3-Dm-5fP.text" = "per Apple Watch";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "Rrc-We-cWW"; */
+"Rrc-We-cWW.text" = "per Apple Watch";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "SC4-N1-1V9"; */
+"SC4-N1-1V9.normalTitle" = "Indietro";
+
+/* Class = "UILabel"; text = "iPhone Model:"; ObjectID = "STn-zd-LXu"; */
+"STn-zd-LXu.text" = "Modello di iPhone:";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "SfU-ib-j5M"; */
+"SfU-ib-j5M.text" = "iText";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "ShQ-0l-UhM"; */
+"ShQ-0l-UhM.text" = "per Apple Watch";
+
+/* Class = "UILabel"; text = "iPhone Model:"; ObjectID = "ShY-OL-h1Z"; */
+"ShY-OL-h1Z.text" = "Modello di iPhone:";
+
+/* Class = "UILabel"; text = "We're very sorry that our product doesn't represent a good app to you. If you have some problem or if you just want something diffrent in the app, just contact us and let us know about it! Your opinion is very important to us."; ObjectID = "TN5-9U-X3z"; */
+"TN5-9U-X3z.text" = "Ci dispiace che la nostra app non ti piaccia. Se hai riscontrato dei problemi o hai dei consigli contattaci! La tua opinione è importante per noi.";
+
+/* Class = "UILabel"; text = "Updating iText to version 1.2.5"; ObjectID = "Td5-cf-CHZ"; */
+"Td5-cf-CHZ.text" = "Aggiorno iText alla versione 1.2.5";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Tim-gP-UXX"; */
+"Tim-gP-UXX.normalTitle" = "Indietro";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Tq4-uk-5dU"; */
+"Tq4-uk-5dU.normalTitle" = "Indietro";
+
+/* Class = "UIButton"; normalTitle = "Upload on Watch"; ObjectID = "Tq7-3b-R9h"; */
+"Tq7-3b-R9h.normalTitle" = "Carica sul Watch";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "TvA-cz-eNV"; */
+"TvA-cz-eNV.text" = "per Apple Watch";
+
+/* Class = "UILabel"; text = "Do you like iText?"; ObjectID = "Tvi-aR-1U9"; */
+"Tvi-aR-1U9.text" = "Ti piace iText?";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "UnB-CU-3Ee"; */
+"UnB-CU-3Ee.normalTitle" = "Indietro";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Utd-Vo-Eg4"; */
+"Utd-Vo-Eg4.normalTitle" = "Indietro";
+
+/* Class = "UIButton"; normalTitle = "Upload on Watch"; ObjectID = "VLE-GQ-kX5"; */
+"VLE-GQ-kX5.normalTitle" = "Carica sul Watch";
+
+/* Class = "UILabel"; text = "Attention"; ObjectID = "VON-rh-FVB"; */
+"VON-rh-FVB.text" = "Attenzione";
+
+/* Class = "UIButton"; normalTitle = "Write now!"; ObjectID = "VWb-17-t0g"; */
+"VWb-17-t0g.normalTitle" = "Scrivi ora!";
+
+/* Class = "UILabel"; text = "Thank you for your help! We'll try to correct these bugs quickly"; ObjectID = "VWe-Fb-Mje"; */
+"VWe-Fb-Mje.text" = "Grazie per l'aiuto! Cercheremo di correggere questi bug il prima possibile";
+
+/* Class = "UITextView"; text = "Add also:                                                                     When the app presents the problem; how to reproduce it and if it happens everytime or only sometime..."; ObjectID = "VZq-xK-tuL"; */
+"VZq-xK-tuL.text" = "Aggiungi anche:                                                                     Quando l'app presenta il problema; come riprodurlo e se si verifica sempre o solo a volte...";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "VhX-fQ-gfZ"; */
+"VhX-fQ-gfZ.text" = "per Apple Watch";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "VtR-Jw-Pup"; */
+"VtR-Jw-Pup.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "Vy4-XF-rkQ"; */
+"Vy4-XF-rkQ.text" = "per Apple Watch";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "W6m-3N-YFy"; */
+"W6m-3N-YFy.text" = "per Apple Watch";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "WCN-Gq-xRN"; */
+"WCN-Gq-xRN.normalTitle" = "No";
+
+/* Class = "UIButton"; normalTitle = "Upload on Watch"; ObjectID = "Wb2-Fp-gZd"; */
+"Wb2-Fp-gZd.normalTitle" = "Carica sul Watch";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Woc-6x-kzd"; */
+"Woc-6x-kzd.normalTitle" = "Indietro";
+
+/* Class = "UILabel"; text = "Great!"; ObjectID = "WpE-f4-l03"; */
+"WpE-f4-l03.text" = "Bene!";
+
+/* Class = "UILabel"; text = "Describe the problem:"; ObjectID = "WqB-7S-IQV"; */
+"WqB-7S-IQV.text" = "Descrivi il problema:";
+
+/* Class = "UILabel"; text = "• Now open your Apple Watch's App and check that text has been send."; ObjectID = "WuJ-fV-zk3"; */
+"WuJ-fV-zk3.text" = "• Verificate che sul Watch tutto sia andato a buon fine!";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "Wus-Yq-9jc"; */
+"Wus-Yq-9jc.text" = "iText";
+
+/* Class = "UILabel"; text = "Application developed by:"; ObjectID = "X24-Od-QbK"; */
+"X24-Od-QbK.text" = "Applicazione sviluppata da:";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "X8j-eY-mxo"; */
+"X8j-eY-mxo.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "• Open \"Write Now\" section in iPhone's App and select one of the five possible subjects;"; ObjectID = "XOR-A0-sZE"; */
+"XOR-A0-sZE.text" = "• Aprire la sezione \"Scrivi ora!\" sull'app dell'iPhone e scegliere una delle cinque possibili sezioni;";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "Xe3-ix-3YL"; */
+"Xe3-ix-3YL.text" = "iText";
+
+/* Class = "UILabel"; text = "Before uploading check that your Apple Watch's app is on texts view!"; ObjectID = "XiG-Vq-7hL"; */
+"XiG-Vq-7hL.text" = "Prima di caricare verificate che l'Apple Watch sia sulla sezione dei testi!";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "XwX-eJ-6hG"; */
+"XwX-eJ-6hG.normalTitle" = "Indietro";
+
+/* Class = "UILabel"; text = "Checking for bugs' correction..."; ObjectID = "Y2d-v5-ner"; */
+"Y2d-v5-ner.text" = "Verifico la correzione dei bug...";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "YKt-fv-US1"; */
+"YKt-fv-US1.text" = "per Apple Watch";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "Ykl-TC-8rb"; */
+"Ykl-TC-8rb.text" = "iText";
+
+/* Class = "UILabel"; text = "iText 1.2.5"; ObjectID = "Yqt-Bj-26q"; */
+"Yqt-Bj-26q.text" = "iText 1.2.5";
+
+/* Class = "UIButton"; normalTitle = "End"; ObjectID = "Yzb-L9-Y2E"; */
+"Yzb-L9-Y2E.normalTitle" = "Fine";
+
+/* Class = "UIButton"; normalTitle = "Upload on Watch"; ObjectID = "Z3i-0n-Pth"; */
+"Z3i-0n-Pth.normalTitle" = "Carica sul Watch";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "ZNW-pC-Rax"; */
+"ZNW-pC-Rax.text" = "iText";
+
+/* Class = "UILabel"; text = "•Write the text you want to have on your wrist in the white rectangle and then press: \"Upload on Watch\". Make sure you have opened Apple Watch's App on the section you have chosen on iPhone before pressing the button;"; ObjectID = "Zeu-Ox-6X6"; */
+"Zeu-Ox-6X6.text" = "•Scrivete il testo che vorreste avere sul polso e cliccate: \"Carica sul Watch\". Verificate di avere aperto l'applicazione sull'Apple Watch nella stessa sezione che avete scelto sull'iPhone prima di premere il bottone;";
+
+/* Class = "UITextView"; text = "Add also:                                                                     When the app presents the problem; how to reproduce it and if it happens everytime or only sometime..."; ObjectID = "ZyE-TX-b2o"; */
+"ZyE-TX-b2o.text" = "Aggiungi anche:                                                                     Quando l'app presenta il problema; come riprodurlo e se si verifica sempre o solo a volte...";
+
+/* Class = "UILabel"; text = "Your thoughts are very important to us and them allow us to improve our app's functions!"; ObjectID = "a0w-ck-RIs"; */
+"a0w-ck-RIs.text" = "Il tuo giudizio è molto importante per noi e ci permette di migliorare il nostro prodotto!";
+
+/* Class = "UIButton"; normalTitle = "Report"; ObjectID = "a1L-bm-J52"; */
+"a1L-bm-J52.normalTitle" = "Riporta";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "aKm-4B-wKp"; */
+"aKm-4B-wKp.text" = "per Apple Watch";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "aiv-fi-Cjt"; */
+"aiv-fi-Cjt.text" = "per Apple Watch";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "axb-kX-f3s"; */
+"axb-kX-f3s.text" = "per Apple Watch";
+
+/* Class = "UILabel"; text = "Thank you for your help! We'll try to correct these bugs quickly"; ObjectID = "b1S-bq-3Q5"; */
+"b1S-bq-3Q5.text" = "Grazie per l'aiuto! Cercheremo di correggere questi bug il prima possibile";
+
+/* Class = "UILabel"; text = "Version: 1.2.3"; ObjectID = "bDv-5s-V5R"; */
+"bDv-5s-V5R.text" = "Versione: 1.2.3";
+
+/* Class = "UILabel"; text = "Before uploading check that your Apple Watch's app is on texts view!"; ObjectID = "bJ0-Nn-Zin"; */
+"bJ0-Nn-Zin.text" = "Prima di caricare verificate che l'Apple Watch sia sulla sezione dei testi!";
+
+/* Class = "UILabel"; text = "We're glad to know that our product is a great app to you! We are working very hard to keep it update and to add new functions! Would you like to review the app on the Apple App Store?"; ObjectID = "bMi-h9-08R"; */
+"bMi-h9-08R.text" = "Siamo lieti di sapere che l'app ti piaccia! Lavoriamo sodo per mantenerla aggiornata; ti andrebbe di lasciare una recensione nell'App Store?";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "bQu-SW-Yyb"; */
+"bQu-SW-Yyb.text" = "per Apple Watch";
+
+/* Class = "UITextField"; placeholder = "Add a title for this section..."; ObjectID = "bgY-7Q-9g7"; */
+"bgY-7Q-9g7.placeholder" = "Aggiungi un titolo a questa sezione...";
+
+/* Class = "UILabel"; text = "To upload a photo on Apple Watch first choose it from your Photo's Library and then press \"Upload on Watch\""; ObjectID = "bjk-2C-aGo"; */
+"bjk-2C-aGo.text" = "To upload a photo on Apple Watch first choose it from your Photo's Library and then press \"Upload on Watch\"";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "c4p-bp-6uf"; */
+"c4p-bp-6uf.normalTitle" = "Modifica";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "ccT-Qv-jw5"; */
+"ccT-Qv-jw5.normalTitle" = "Modifica";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "cpe-B3-6Nf"; */
+"cpe-B3-6Nf.text" = "iText";
+
+/* Class = "UIButton"; normalTitle = "No, I don't like it.."; ObjectID = "cqK-7G-eum"; */
+"cqK-7G-eum.normalTitle" = "No, non mi piace..";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "cyB-7M-o4q"; */
+"cyB-7M-o4q.normalTitle" = "Indietro";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "d6o-YN-y1T"; */
+"d6o-YN-y1T.text" = "iText";
+
+/* Class = "UIButton"; normalTitle = "Write now!"; ObjectID = "d9M-y3-5Ah"; */
+"d9M-y3-5Ah.normalTitle" = "Scrivi ora!";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "dEc-Ei-oCG"; */
+"dEc-Ei-oCG.text" = "iText";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "dLK-3O-HC8"; */
+"dLK-3O-HC8.text" = "per Apple Watch";
+
+/* Class = "UILabel"; text = "iText 1.2.2"; ObjectID = "ddV-tu-GsS"; */
+"ddV-tu-GsS.text" = "iText 1.2.2";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "deQ-wX-JwF"; */
+"deQ-wX-JwF.normalTitle" = "No";
+
+/* Class = "UIButton"; normalTitle = "Report"; ObjectID = "dgA-Xw-OoZ"; */
+"dgA-Xw-OoZ.normalTitle" = "Riporta";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "dqm-Ob-PV5"; */
+"dqm-Ob-PV5.normalTitle" = "Indietro";
+
+/* Class = "UILabel"; text = "• Open \"Write Now\" section in iPhone's App and select one of the five possible subjects;"; ObjectID = "dqz-T0-6QX"; */
+"dqz-T0-6QX.text" = "• Aprire la sezione \"Scrivi ora!\" sull'app dell'iPhone e scegliere una delle cinque possibili sezioni;";
+
+/* Class = "UITextField"; placeholder = "Add a title for this section..."; ObjectID = "dwH-rr-EiM"; */
+"dwH-rr-EiM.placeholder" = "Aggiungi un titolo a questa sezione...";
+
+/* Class = "UITextField"; placeholder = "Add a title for this section..."; ObjectID = "e2m-73-eBk"; */
+"e2m-73-eBk.placeholder" = "Aggiungi un titolo a questa sezione...";
+
+/* Class = "UITextField"; placeholder = "Add a title for this section..."; ObjectID = "e6A-jf-ume"; */
+"e6A-jf-ume.placeholder" = "Aggiungi un titolo a questa sezione...";
+
+/* Class = "UILabel"; text = "We highly recommend to read our tutorial before using this application!"; ObjectID = "eK9-Fd-DhN"; */
+"eK9-Fd-DhN.text" = "Consigliamo vivamente di leggere il tutorial prima di utilizzare l'app!";
+
+/* Class = "UIButton"; normalTitle = "Contact us"; ObjectID = "eMN-et-aa0"; */
+"eMN-et-aa0.normalTitle" = "Contattaci";
+
+/* Class = "UILabel"; text = "iPhone Model:"; ObjectID = "eP3-ar-bQx"; */
+"eP3-ar-bQx.text" = "Modello di iPhone:";
+
+/* Class = "UILabel"; text = "• Check that in \"Watch\" App, you have installed iText App on your wereable device;"; ObjectID = "egi-tL-v5g"; */
+"egi-tL-v5g.text" = "• Controllare che nell'App \"Watch\" abbiate installato la nostra App sul dispositivo indossabile;";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "eiT-9F-WeC"; */
+"eiT-9F-WeC.normalTitle" = "Indietro";
+
+/* Class = "UILabel"; text = "Updating iText to version 1.2.5"; ObjectID = "eok-Li-85l"; */
+"eok-Li-85l.text" = "Aggiorno iText alla versione 1.2.5";
+
+/* Class = "UILabel"; text = "•Write the text you want to have on your wrist in the white rectangle and then press: \"Upload on Watch\". Make sure you have opened Apple Watch's App on the section you have chosen on iPhone before pressing the button;"; ObjectID = "evS-A5-JVs"; */
+"evS-A5-JVs.text" = "•Scrivete il testo che vorreste avere sul polso e cliccate: \"Carica sul Watch\". Verificate di avere aperto l'applicazione sull'Apple Watch nella stessa sezione che avete scelto sull'iPhone prima di premere il bottone;";
+
+/* Class = "UILabel"; text = "Copyright, 2016 - Ro.v.er Development Italy"; ObjectID = "fEB-9T-Qyw"; */
+"fEB-9T-Qyw.text" = "Copyright, 2016 - Ro.v.er Development Italy";
+
+/* Class = "UILabel"; text = "To upload a text on you Apple Watch, you need to:"; ObjectID = "fJp-aV-nOl"; */
+"fJp-aV-nOl.text" = "Per caricare un testo su Apple Watch dovete:";
+
+/* Class = "UILabel"; text = "Attention"; ObjectID = "fKZ-sS-rgB"; */
+"fKZ-sS-rgB.text" = "Attenzione";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "flT-kk-bqo"; */
+"flT-kk-bqo.normalTitle" = "Indietro";
+
+/* Class = "UIButton"; normalTitle = "Not now"; ObjectID = "g0b-hH-sTB"; */
+"g0b-hH-sTB.normalTitle" = "Non ora";
+
+/* Class = "UILabel"; text = "iOS %i"; ObjectID = "g7W-0X-a8M"; */
+"g7W-0X-a8M.text" = "iOS %i";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "g89-M6-BoM"; */
+"g89-M6-BoM.normalTitle" = "Chiudi";
+
+/* Class = "UITextField"; placeholder = "Add a title for this section..."; ObjectID = "gBg-Qs-x0e"; */
+"gBg-Qs-x0e.placeholder" = "Aggiungi un titolo a questa sezione...";
+
+/* Class = "UIButton"; normalTitle = "Tutorial"; ObjectID = "gD7-9f-GqF"; */
+"gD7-9f-GqF.normalTitle" = "Tutorial";
+
+/* Class = "UIButton"; normalTitle = "Upload on Watch"; ObjectID = "gFc-AL-FGo"; */
+"gFc-AL-FGo.normalTitle" = "Carica sul Watch";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gKr-gV-wcW"; */
+"gKr-gV-wcW.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Ro.v.er Software Development"; ObjectID = "gMr-1c-Rk3"; */
+"gMr-1c-Rk3.text" = "Ro.v.er Software Development";
+
+/* Class = "UIButton"; normalTitle = "Upload on Watch"; ObjectID = "gN5-ao-e7m"; */
+"gN5-ao-e7m.normalTitle" = "Carica sul Watch";
+
+/* Class = "UIButton"; normalTitle = "No, I don't like it.."; ObjectID = "gTI-iV-NEu"; */
+"gTI-iV-NEu.normalTitle" = "No, non mi piace..";
+
+/* Class = "UILabel"; text = "Oh..."; ObjectID = "gZF-0C-mlt"; */
+"gZF-0C-mlt.text" = "Oh...";
+
+/* Class = "UIButton"; normalTitle = "Checked"; ObjectID = "gd1-vS-hjB"; */
+"gd1-vS-hjB.normalTitle" = "Fatto";
+
+/* Class = "UILabel"; text = "To upload a text on you Apple Watch, you need to:"; ObjectID = "geU-ZE-nCc"; */
+"geU-ZE-nCc.text" = "Per caricare un testo su Apple Watch dovete:";
+
+/* Class = "UITextView"; text = "Add also:                                                                     When the app presents the problem; how to reproduce it and if it happens everytime or only sometime..."; ObjectID = "gkW-dy-voT"; */
+"gkW-dy-voT.text" = "Aggiungi anche:                                                                     Quando l'app presenta il problema; come riprodurlo e se si verifica sempre o solo a volte...";
+
+/* Class = "UIButton"; normalTitle = "Select from Library"; ObjectID = "gw3-jc-5Pv"; */
+"gw3-jc-5Pv.normalTitle" = "Select from Library";
+
+/* Class = "UILabel"; text = "•Write the text you want to have on your wrist in the white rectangle and then press: \"Upload on Watch\". Make sure you have opened Apple Watch's App on the section you have chosen on iPhone before pressing the button;"; ObjectID = "gwq-WF-wdg"; */
+"gwq-WF-wdg.text" = "•Scrivete il testo che vorreste avere sul polso e cliccate: \"Carica sul Watch\". Verificate di avere aperto l'applicazione sull'Apple Watch nella stessa sezione che avete scelto sull'iPhone prima di premere il bottone;";
+
+/* Class = "UILabel"; text = "Select the emergency face that you prefer:"; ObjectID = "h5U-XO-zsc"; */
+"h5U-XO-zsc.text" = "Seleziona il quadrante di emergenza che preferisci:";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "h86-AJ-lsw"; */
+"h86-AJ-lsw.text" = "per Apple Watch";
+
+/* Class = "UILabel"; text = "We're very sorry that our product doesn't represent a good app to you. If you have some problem or if you just want something diffrent in the app, just contact us and let us know about it! Your opinion is very important to us."; ObjectID = "hBg-ci-UW3"; */
+"hBg-ci-UW3.text" = "Ci dispiace che la nostra app non ti piaccia. Se hai riscontrato dei problemi o hai dei consigli contattaci! La tua opinione è importante per noi.";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "hCQ-CY-icf"; */
+"hCQ-CY-icf.text" = "per Apple Watch";
+
+/* Class = "UILabel"; text = "Attention"; ObjectID = "hKv-oh-adG"; */
+"hKv-oh-adG.text" = "Attenzione";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "hPJ-gO-nmJ"; */
+"hPJ-gO-nmJ.normalTitle" = "Chiudi";
+
+/* Class = "UIButton"; normalTitle = "Write now!"; ObjectID = "hPO-Cp-5u6"; */
+"hPO-Cp-5u6.normalTitle" = "Scrivi ora!";
+
+/* Class = "UILabel"; text = "To upload the new Watch's Face, first open the Face's section from any of the three text's sections on the Apple Watch"; ObjectID = "hmo-NZ-wiM"; */
+"hmo-NZ-wiM.text" = "Per caricare un nuovo quadrante  aprite, prima di cliccare, la sezione di emergenza sul vostro Apple Watch";
+
+/* Class = "UIButton"; normalTitle = "Upload on Watch"; ObjectID = "htG-LA-Uuv"; */
+"htG-LA-Uuv.normalTitle" = "Carica sul Watch";
+
+/* Class = "UILabel"; text = "Application developed by:"; ObjectID = "hvZ-r7-txX"; */
+"hvZ-r7-txX.text" = "Applicazione sviluppata da:";
+
+/* Class = "UIButton"; normalTitle = "Upload on Watch"; ObjectID = "iGo-7U-52C"; */
+"iGo-7U-52C.normalTitle" = "Carica sul Watch";
+
+/* Class = "UITextField"; placeholder = "Add a title for this section..."; ObjectID = "iQ5-1S-m4a"; */
+"iQ5-1S-m4a.placeholder" = "Aggiungi un titolo a questa sezione...";
+
+/* Class = "UILabel"; text = "We're very sorry that our product doesn't represent a good app to you. If you have some problem or if you just want something diffrent in the app, just contact us and let us know about it! Your opinion is very important to us."; ObjectID = "ioD-fq-7JU"; */
+"ioD-fq-7JU.text" = "Ci dispiace che la nostra app non ti piaccia. Se hai riscontrato dei problemi o hai dei consigli contattaci! La tua opinione è importante per noi.";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "iqR-LQ-N20"; */
+"iqR-LQ-N20.text" = "iText";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "isy-K2-FhR"; */
+"isy-K2-FhR.text" = "per Apple Watch";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "iuX-Il-cRw"; */
+"iuX-Il-cRw.normalTitle" = "Indietro";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "iul-zX-3GG"; */
+"iul-zX-3GG.normalTitle" = "Indietro";
+
+/* Class = "UIButton"; normalTitle = "Upload on Watch"; ObjectID = "j1q-bN-I3V"; */
+"j1q-bN-I3V.normalTitle" = "Carica sul Watch";
+
+/* Class = "UILabel"; text = "iOS %i"; ObjectID = "j5G-e2-U8x"; */
+"j5G-e2-U8x.text" = "iOS %i";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "jJn-Am-mW6"; */
+"jJn-Am-mW6.text" = "iText";
+
+/* Class = "UITextField"; placeholder = "Add a title for this section..."; ObjectID = "jL0-WE-gHc"; */
+"jL0-WE-gHc.placeholder" = "Aggiungi un titolo a questa sezione...";
+
+/* Class = "UIButton"; normalTitle = "Yes, of course!"; ObjectID = "jUX-3J-pw7"; */
+"jUX-3J-pw7.normalTitle" = "Certo, con piacere!";
+
+/* Class = "UILabel"; text = "• Check now that text has been sent."; ObjectID = "jc3-AE-6Nu"; */
+"jc3-AE-6Nu.text" = "• Verificate che sul Watch tutto sia andato a buon fine!";
+
+/* Class = "UILabel"; text = "Do you like iText?"; ObjectID = "jem-dV-YbE"; */
+"jem-dV-YbE.text" = "Ti piace iText?";
+
+/* Class = "UITextView"; text = "Add also:                                                                     When the app presents the problem; how to reproduce it and if it happens everytime or only sometime..."; ObjectID = "jfC-sc-Tmk"; */
+"jfC-sc-Tmk.text" = "Aggiungi anche:                                                                     Quando l'app presenta il problema; come riprodurlo e se si verifica sempre o solo a volte...";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "kTX-b7-NhR"; */
+"kTX-b7-NhR.normalTitle" = "Indietro";
+
+/* Class = "UITextField"; placeholder = "Add a title for this section..."; ObjectID = "kWH-we-ZaL"; */
+"kWH-we-ZaL.placeholder" = "Aggiungi un titolo a questa sezione...";
+
+/* Class = "UIButton"; normalTitle = "Report a bug"; ObjectID = "khF-ri-dUx"; */
+"khF-ri-dUx.normalTitle" = "Riporta un bug";
+
+/* Class = "UILabel"; text = "We're glad to know that our product is a great app to you! We are working very hard to keep it update and to add new functions! Would you like to review the app on the Apple App Store?"; ObjectID = "khy-dI-A1F"; */
+"khy-dI-A1F.text" = "Siamo lieti di sapere che l'app ti piaccia! Lavoriamo sodo per mantenerla aggiornata; ti andrebbe di lasciare una recensione nell'App Store?";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "kmk-di-smn"; */
+"kmk-di-smn.text" = "iText";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "koI-IK-5It"; */
+"koI-IK-5It.normalTitle" = "Chiudi";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "l3I-qt-Zkm"; */
+"l3I-qt-Zkm.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "l7q-CQ-FQd"; */
+"l7q-CQ-FQd.normalTitle" = "Indietro";
+
+/* Class = "UILabel"; text = "Attention"; ObjectID = "lFC-Sh-g3X"; */
+"lFC-Sh-g3X.text" = "Attenzione";
+
+/* Class = "UILabel"; text = "Describe the problem:"; ObjectID = "lQb-Gz-PlK"; */
+"lQb-Gz-PlK.text" = "Descrivi il problema:";
+
+/* Class = "UILabel"; text = "Checking for bugs' correction..."; ObjectID = "li7-rd-PfC"; */
+"li7-rd-PfC.text" = "Verifico la correzione dei bug...";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ljB-r4-9Fa"; */
+"ljB-r4-9Fa.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Before uploading check that your Apple Watch's app is on texts view!"; ObjectID = "loY-aZ-Apk"; */
+"loY-aZ-Apk.text" = "Prima di caricare verificate che l'Apple Watch sia sulla sezione dei testi!";
+
+/* Class = "UILabel"; text = "Great!"; ObjectID = "lr0-Y1-kUS"; */
+"lr0-Y1-kUS.text" = "Bene!";
+
+/* Class = "UIButton"; normalTitle = "Write now!"; ObjectID = "lvM-9K-Uj4"; */
+"lvM-9K-Uj4.normalTitle" = "Scrivi ora!";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "mHF-jl-iHt"; */
+"mHF-jl-iHt.normalTitle" = "Indietro";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "mJ2-Gz-Bhp"; */
+"mJ2-Gz-Bhp.text" = "iText";
+
+/* Class = "UILabel"; text = "We're glad to know that our product is a great app to you! We are working very hard to keep it update and to add new functions! Would you like to review the app on the Apple App Store?"; ObjectID = "mmB-P8-uvT"; */
+"mmB-P8-uvT.text" = "Siamo lieti di sapere che l'app ti piaccia! Lavoriamo sodo per mantenerla aggiornata; ti andrebbe di lasciare una recensione nell'App Store?";
+
+/* Class = "UILabel"; text = "iPhone %i"; ObjectID = "mod-f4-4io"; */
+"mod-f4-4io.text" = "iPhone %i";
+
+/* Class = "UIButton"; normalTitle = "Tutorial"; ObjectID = "muD-5d-kwR"; */
+"muD-5d-kwR.normalTitle" = "Tutorial";
+
+/* Class = "UILabel"; text = "Copyright, 2016 - Ro.v.er Development Italy"; ObjectID = "mxS-vM-QTC"; */
+"mxS-vM-QTC.text" = "Copyright, 2016 - Ro.v.er Development Italy";
+
+/* Class = "UILabel"; text = "App version:"; ObjectID = "n7b-NN-J7D"; */
+"n7b-NN-J7D.text" = "Versione dell'app:";
+
+/* Class = "UILabel"; text = "We highly recommend to read our tutorial before using this application!"; ObjectID = "nQA-Eb-7QQ"; */
+"nQA-Eb-7QQ.text" = "Consigliamo vivamente di leggere il tutorial prima di utilizzare l'app!";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "nQU-UU-JRa"; */
+"nQU-UU-JRa.text" = "iText";
+
+/* Class = "UIButton"; normalTitle = "Contact us"; ObjectID = "nXS-BO-7Ul"; */
+"nXS-BO-7Ul.normalTitle" = "Contattaci";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "naA-FB-hSz"; */
+"naA-FB-hSz.normalTitle" = "Indietro";
+
+/* Class = "UIButton"; normalTitle = "Tutorial"; ObjectID = "naZ-tf-Ee5"; */
+"naZ-tf-Ee5.normalTitle" = "Tutorial";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "nbZ-KY-wK1"; */
+"nbZ-KY-wK1.text" = "iText";
+
+/* Class = "UIButton"; normalTitle = "Upload on Watch"; ObjectID = "nle-jQ-DFI"; */
+"nle-jQ-DFI.normalTitle" = "Carica sul Watch";
+
+/* Class = "UILabel"; text = "Ro.v.er Software Development"; ObjectID = "oKF-O4-taY"; */
+"oKF-O4-taY.text" = "Ro.v.er Software Development";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "opm-Sb-6hi"; */
+"opm-Sb-6hi.normalTitle" = "Indietro";
+
+/* Class = "UIButton"; normalTitle = "End"; ObjectID = "ouH-9I-eJy"; */
+"ouH-9I-eJy.normalTitle" = "Fine";
+
+/* Class = "UIButton"; normalTitle = "End"; ObjectID = "p01-IF-WKy"; */
+"p01-IF-WKy.normalTitle" = "Fine";
+
+/* Class = "UILabel"; text = "• Check now that text has been sent."; ObjectID = "pR2-4F-zGS"; */
+"pR2-4F-zGS.text" = "• Verificate che sul Watch tutto sia andato a buon fine!";
+
+/* Class = "UILabel"; text = "Your thoughts are very important to us and them allow us to improve our app's functions!"; ObjectID = "pSQ-r7-Rfe"; */
+"pSQ-r7-Rfe.text" = "Il tuo giudizio è molto importante per noi e ci permette di migliorare il nostro prodotto!";
+
+/* Class = "UILabel"; text = "Do you like iText?"; ObjectID = "pf3-z0-hkK"; */
+"pf3-z0-hkK.text" = "Ti piace iText?";
+
+/* Class = "UILabel"; text = "Updating iText to version 1.2.5"; ObjectID = "ph6-Mx-i4M"; */
+"ph6-Mx-i4M.text" = "Aggiorno iText alla versione 1.2.5";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "q03-S5-kh0"; */
+"q03-S5-kh0.text" = "iText";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "qRR-Zh-8th"; */
+"qRR-Zh-8th.normalTitle" = "Indietro";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "rZE-LA-9IA"; */
+"rZE-LA-9IA.normalTitle" = "Indietro";
+
+/* Class = "UILabel"; text = "iOS %i"; ObjectID = "rag-9R-2ZN"; */
+"rag-9R-2ZN.text" = "iOS %i";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "sQt-2n-hqQ"; */
+"sQt-2n-hqQ.text" = "iText";
+
+/* Class = "UILabel"; text = "App version:"; ObjectID = "sT3-tW-TMc"; */
+"sT3-tW-TMc.text" = "Versione dell'app:";
+
+/* Class = "UILabel"; text = "Describe the problem:"; ObjectID = "sV9-Il-lZg"; */
+"sV9-Il-lZg.text" = "Descrivi il problema:";
+
+/* Class = "UILabel"; text = "Before uploading check that your Apple Watch's app is on texts view!"; ObjectID = "soB-Id-EQG"; */
+"soB-Id-EQG.text" = "Prima di caricare verificate che l'Apple Watch sia sulla sezione dei testi!";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "tIQ-2K-dGv"; */
+"tIQ-2K-dGv.normalTitle" = "Indietro";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "tOC-48-DqQ"; */
+"tOC-48-DqQ.text" = "per Apple Watch";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "tP1-pu-ecO"; */
+"tP1-pu-ecO.normalTitle" = "Indietro";
+
+/* Class = "UIButton"; normalTitle = "Credits"; ObjectID = "tS0-L5-MUA"; */
+"tS0-L5-MUA.normalTitle" = "Crediti";
+
+/* Class = "UITextField"; placeholder = "Add a title for this section..."; ObjectID = "tUJ-GL-yPn"; */
+"tUJ-GL-yPn.placeholder" = "Aggiungi un titolo a questa sezione...";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "tfJ-t3-XTD"; */
+"tfJ-t3-XTD.text" = "per Apple Watch";
+
+/* Class = "UIButton"; normalTitle = "Select from Library"; ObjectID = "uLq-yH-eN9"; */
+"uLq-yH-eN9.normalTitle" = "Select from Library";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "uP2-pF-P5Z"; */
+"uP2-pF-P5Z.text" = "per Apple Watch";
+
+/* Class = "UILabel"; text = "We're very sorry that our product doesn't represent a good app to you. If you have some problem or if you just want something diffrent in the app, just contact us and let us know about it! Your opinion is very important to us."; ObjectID = "ufF-dO-IHl"; */
+"ufF-dO-IHl.text" = "Ci dispiace che la nostra app non ti piaccia. Se hai riscontrato dei problemi o hai dei consigli contattaci! La tua opinione è importante per noi.";
+
+/* Class = "UILabel"; text = "Describe the problem:"; ObjectID = "ufc-cc-dWH"; */
+"ufc-cc-dWH.text" = "Descrivi il problema:";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "uni-Bt-Cq0"; */
+"uni-Bt-Cq0.text" = "iText";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uxm-oC-g9w"; */
+"uxm-oC-g9w.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "vIr-A6-Fyb"; */
+"vIr-A6-Fyb.normalTitle" = "Indietro";
+
+/* Class = "UIButton"; normalTitle = "Take a photo"; ObjectID = "vMp-1P-CGp"; */
+"vMp-1P-CGp.normalTitle" = "Take a photo";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "vPJ-1w-GAo"; */
+"vPJ-1w-GAo.text" = "iText";
+
+/* Class = "UIButton"; normalTitle = "Upload on Watch"; ObjectID = "vQF-AI-k71"; */
+"vQF-AI-k71.normalTitle" = "Carica sul Watch";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "vYy-oH-qQV"; */
+"vYy-oH-qQV.normalTitle" = "Indietro";
+
+/* Class = "UILabel"; text = "Oh..."; ObjectID = "vbh-8B-c9q"; */
+"vbh-8B-c9q.text" = "Oh...";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "vcy-b5-DjH"; */
+"vcy-b5-DjH.normalTitle" = "Indietro";
+
+/* Class = "UIButton"; normalTitle = "Report a bug"; ObjectID = "wEk-ch-EOV"; */
+"wEk-ch-EOV.normalTitle" = "Riporta un bug";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "wqT-zf-IOo"; */
+"wqT-zf-IOo.text" = "iText";
+
+/* Class = "UILabel"; text = "App version:"; ObjectID = "wwb-r6-IVm"; */
+"wwb-r6-IVm.text" = "Versione dell'app:";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "xIN-5u-MOI"; */
+"xIN-5u-MOI.text" = "iText";
+
+/* Class = "UILabel"; text = "• Check now that text has been sent."; ObjectID = "xPT-vO-LJZ"; */
+"xPT-vO-LJZ.text" = "• Verificate che sul Watch tutto sia andato a buon fine!";
+
+/* Class = "UILabel"; text = "Checking for bugs' correction..."; ObjectID = "xPv-Sm-CSX"; */
+"xPv-Sm-CSX.text" = "Verifico la correzione dei bug...";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "xVa-wE-KrQ"; */
+"xVa-wE-KrQ.normalTitle" = "Indietro";
+
+/* Class = "UIButton"; normalTitle = "Upload on Watch"; ObjectID = "xjW-in-BqH"; */
+"xjW-in-BqH.normalTitle" = "Carica sul Watch";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "xr4-6s-mHc"; */
+"xr4-6s-mHc.text" = "iText";
+
+/* Class = "UILabel"; text = "Version: 1.2.5"; ObjectID = "y5x-xA-CPW"; */
+"y5x-xA-CPW.text" = "Versione: 1.2.5";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "y6r-fk-Ql5"; */
+"y6r-fk-Ql5.normalTitle" = "Indietro";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "yAh-yc-Doa"; */
+"yAh-yc-Doa.normalTitle" = "Indietro";
+
+/* Class = "UIButton"; normalTitle = "Yes, of course!"; ObjectID = "yBE-fy-fJJ"; */
+"yBE-fy-fJJ.normalTitle" = "Certo, con piacere!";
+
+/* Class = "UILabel"; text = "for Apple Watch"; ObjectID = "yR4-vL-Tbl"; */
+"yR4-vL-Tbl.text" = "per Apple Watch";
+
+/* Class = "UIButton"; normalTitle = "Upload on Watch"; ObjectID = "yWV-B6-0ct"; */
+"yWV-B6-0ct.normalTitle" = "Carica sul Watch";
+
+/* Class = "UILabel"; text = "Select the emergency face that you prefer:"; ObjectID = "z0X-ky-cAc"; */
+"z0X-ky-cAc.text" = "Seleziona il quadrante di emergenza che preferisci:";
+
+/* Class = "UITextField"; placeholder = "Add a title for this section..."; ObjectID = "z3V-Ha-tJD"; */
+"z3V-Ha-tJD.placeholder" = "Aggiungi un titolo a questa sezione...";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "zGP-8B-h2P"; */
+"zGP-8B-h2P.normalTitle" = "Indietro";
+
+/* Class = "UIButton"; normalTitle = "Report"; ObjectID = "zIN-j6-kcf"; */
+"zIN-j6-kcf.normalTitle" = "Riporta";
+
+/* Class = "UILabel"; text = "iPhone %i"; ObjectID = "zUH-bs-ZKh"; */
+"zUH-bs-ZKh.text" = "iPhone %i";
+
+/* Class = "UILabel"; text = "iText"; ObjectID = "zeF-mw-eXu"; */
+"zeF-mw-eXu.text" = "iText";
+
+/* Class = "UILabel"; text = "iPhone %i"; ObjectID = "zhM-gJ-1kU"; */
+"zhM-gJ-1kU.text" = "iPhone %i";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "ztN-oK-P99"; */
+"ztN-oK-P99.normalTitle" = "Indietro";
